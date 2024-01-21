@@ -19,4 +19,4 @@
 - Для привлечения аудитории посты должны быть с приложением видео и фото.
 
 ## Используемые библиотеки:
-`Pandas`, `Numpy`, `Matplotlib`, `Seaborn`, `math`, `string`, `nltk`, `pymorphy2`, `re`, `wordcloud`
+`Pandas`, `Numpy`, `Matplotlib`, `Seaborn`, `math`, `string`, `nltk`, `pymorphy3`, `re`, `wordcloud`
